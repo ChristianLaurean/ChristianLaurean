@@ -1,16 +1,14 @@
-# ¡Hola, soy Christian Laurean!
-## Data enginner | Desarrollador ETL
+<h1 align="center">¡Hola! 👋 Soy Christian Laurean</h1>
+<h3 align="center">Apasionado por resolver problemas con grandes cantidades de datos</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/christian-laurean-48394a190/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
+  </a>
+</p>
 
-<br>
-<img align="right" src="https://github.com/tuusuario/-/blob/master/resource/HelloWorld.gif" width="400px" />
-🌱 Actualmente estoy aprendiendo Airflow
-💬 Pregúntame sobre Datos y ingenieria de datos
-📫 Cómo contactarme: christianlaurean1@gmail.com
-
-
-<strong>🔭 Puedes empezar desde aquí ...</strong>
-
-<a href="ETL"> <img src="https://github.com/ChristianLaurean/DataPipeline-ETL-Snowflake" width=400> </a>
-<a href="https://github.com/tuusuario/DesignPatterns"> <img src="https://github.com/ChristianLaurean/Sistema-de-Gestion-Metro-CDMX" width=400> </a>
-
+<ul align="center">
+  <li>🌱 Actualmente estoy aprendiendo Airflow</li>
+  <li>💬 Pregúntame sobre análisis de datos</li>
+  <li>📫 Puedes contactarme en christianlaurean1@gmail.com</li>
+</ul>
